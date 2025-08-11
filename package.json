@@ -1,0 +1,22 @@
+{
+  "name": "Baby Troll",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "motion": "^12.16.0",
+    "next": "15.4.4",
+    "react": "19.1.0",
+    "react-copy-to-clipboard": "^5.1.0",
+    "react-dom": "19.1.0"
+  },
+  "devDependencies": {
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
