@@ -123,7 +123,8 @@ const Hero = () => {
                 transition={{ duration: 0.6, delay: 1.6 }}
               >
                 <motion.a
-                  href="/"
+                  href="https://t.me/babytrollbsc"
+                  target="_blank"
                   whileHover={{ scale: 1.2 }}
                   transition={{ duration: 0.3 }}
                 >
@@ -133,7 +134,8 @@ const Hero = () => {
                   />
                 </motion.a>
                 <motion.a
-                  href="/"
+                  href="https://x.com/BabyTroll_BNB"
+                  target="_blank"
                   whileHover={{ scale: 1.2 }}
                   transition={{ duration: 0.3 }}
                 >
