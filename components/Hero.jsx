@@ -94,7 +94,8 @@ const Hero = () => {
               </motion.h1>
               <motion.a
                 className="font-rubikBubbles tracking-widest text-lg uppercase md:text-xl lg:text-2xl py-3 px-10 lg:px-16 border-2 border-black shadow-[8px_8px_8px_0px_rgba(0,0,0,1)]"
-                href="/"
+                href="https://www.pinksale.finance/launchpad/bsc/0x8A9bEf4A8984b1E6bDAdB0c71Dff765e3E48cA59"
+                target="_blank"
                 initial={{ y: 20, opacity: 0 }}
                 animate={{ y: 0, opacity: 1, transition: { duration: 0.6, delay: 1.2 } }}
                 transition={{ duration: 0.6, delay: 0 }}
