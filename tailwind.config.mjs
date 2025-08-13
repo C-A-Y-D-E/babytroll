@@ -8,8 +8,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        rubikBubbles: ["var(--font-rubik-bubbles)"],
-        rubikDoodle: ["var(--font-rubik-doodle)"],
+        slackey: ["var(--font-slackey)"],
       },
     },
   },
